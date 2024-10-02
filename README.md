@@ -25,6 +25,8 @@ If you have any questions or need further assistance, please feel free to contac
 
 X. Li and W. Armour, "Intensity-Sensitive Similarity Indexes for Image Quality Assessment," 2022 26th International Conference on Pattern Recognition (ICPR), Montreal, QC, Canada, 2022, pp. 1975-1981, doi: 10.1109/ICPR56361.2022.9956093.
 
+X. Li, K. Adamek, and W. Armour, "GPU Accelerated Image Quality Assessment-Based Software for Source Detection," Astronomical Data Analysis Software and Systems (ADASS) XXXIV, 2024. 
+
 ## License
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
